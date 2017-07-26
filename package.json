@@ -41,7 +41,9 @@
   },
   "devDependencies": {
     "conventional-changelog": "~1.1.0",
-    "mocha": "1.x.x"
+    "express": "^4.15.3",
+    "mocha": "1.x.x",
+    "supertest": "^3.0.0"
   },
   "engines": {
     "node": ">= 0.4.0"
